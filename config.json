@@ -1,0 +1,10 @@
+{
+    "//": "Basics",
+    "DESIGN_NAME": "FlexiPacketEngine",
+    "VERILOG_FILES": "dir::src/*.v",
+    "CLOCK_PORT": "clk",
+    "CLOCK_PERIOD": 10.0,
+    "FP_PDN_MULTILAYER": true,
+    "PNR_SDC_FILE": "dir::src/FlexiPacketEngine.sdc",
+    "SIGNOFF_SDC_FILE": "dir::src/FlexiPacketEngine.sdc"
+}
