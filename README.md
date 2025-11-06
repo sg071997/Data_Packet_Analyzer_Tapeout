@@ -9,7 +9,8 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 In Wireless Communication (e.g., Wi-Fi, Bluetooth), Data is often transmitted in bursts or Frames. The FlexiPacketEngine IC can be used to structure the transmitted frames and include metadata about the length, sequence, and other characteristics of each frame. Below is the representation of the crafted output Packet.
-![Data Packet](https://github.com/user-attachments/assets/e2c27d65-5360-4cc5-89e1-700cac182c06)
+![Data Packet](https://github.com/user-attachments/assets/177cc970-2913-4da4-804f-48c8c390f5cf)
+
 
 
 The Sequence Number can help detect packet loss due to interference or signal degradation, enabling retransmission if needed.
