@@ -41,5 +41,9 @@ Total Clock Cycles required for max 100 Payloads will be 204 (~205) Clock Cycles
 ## Rendering GDS
 The GDS is conerted to .stl using gdsiistl (https://github.com/mbalestrini/gdsiistl) script. Imported all the .stl in Blender and stacked according to SkyWater PDK Stack Architecture. Below is the beautiful rendering of IC (more in rendering folder):
 ![untitled1](https://github.com/user-attachments/assets/4b86a903-75b1-4a7e-b340-b1446a949404)
+![Rendering2](https://github.com/user-attachments/assets/8d486540-d684-4187-a858-5d04a7f78c25)
+![Rendering3](https://github.com/user-attachments/assets/21837980-db82-426a-8b8f-ccbfee8d23b7)
+![Rendering4](https://github.com/user-attachments/assets/01712b35-3914-4843-8f47-1e28b60a682f)
+
 
 
